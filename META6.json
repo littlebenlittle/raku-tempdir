@@ -1,0 +1,20 @@
+{
+  "meta-version": "0",
+  "name": "TempDir",
+  "version": "0.0.0",
+  "auth": "github:littlebenlittle",
+  "description": "Create temporary directories",
+  "source-url": "https://github.com/littlebenlittle/raku-tempdir",
+  "perl": "6.d",
+  "author": "Ben Little <ben.little@fruition.net>",
+  "tags": [
+    "temp",
+    "tmp",
+    "dir",
+    "directory"
+  ],
+  "license": "Artistic-2.0",
+  "provides": {
+    "TempDir": "lib/TempDir.rakumod"
+  }
+}
